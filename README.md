@@ -76,3 +76,13 @@ Lessons:
 • Prepare your best-alternative-option in advance
 • Be prepared for extremes
 • Ask open-ended questions
+
+![image](https://user-images.githubusercontent.com/19508013/221016515-196a3118-c6e2-417f-af10-41fa1877d111.png)
+
+Subject: Networking
+
+Lessons:
+• Your network is your net worth
+• Choose your environment wisely (find power centers)
+• Follow the 5+50+1000 Rule
+
