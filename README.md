@@ -18,7 +18,7 @@ Lessons:
 • When in doubt, simplify
 • Win by getting feedback + learning fast
 
-![image](https://user-images.githubusercontent.com/19508013/221006746-6e6273f3-9cc9-42af-8507-21f8764c0bc8.png)
+![image](https://user-images.githubusercontent.com/19508013/221007097-4d5e9733-6405-4e70-88d6-b6519eecaa7f.png)
 
 Subject: Accounting/Finance
 
