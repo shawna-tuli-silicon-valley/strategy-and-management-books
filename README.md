@@ -49,3 +49,30 @@ Subject: Operations
 Lessons:
 • Identify and exploit bottlenecks
 • Increase net profit + increase ROI + increase cash flow
+
+![image](https://user-images.githubusercontent.com/19508013/221013536-cd849446-b525-4c6b-95f7-b7f0a189568e.png)
+
+Subject: Systems Thinking
+
+Lessons: 
+• To change any system, focus on 12 points of leverage
+• Purposes are deduced from behavior, not words
+• Create feedback loops
+
+![image](https://user-images.githubusercontent.com/19508013/221013928-6484927b-6d4b-4bae-8286-6d22755ca24d.png)
+
+Subject: Public Speaking
+
+Lessons:
+• Cut out filler words by practicing material
+• Use pauses for impact
+• Act "as if" to build confidence
+
+![image](https://user-images.githubusercontent.com/19508013/221014215-79699a67-feb1-4035-b6ba-c1845f570262.png)
+
+Subject: Negotiation
+
+Lessons:
+• Prepare your best-alternative-option in advance
+• Be prepared for extremes
+• Ask open-ended questions
