@@ -9,7 +9,7 @@ Lessons:
 • Contrarian approaches create value
 • Go from "0 to 1," not "from 1 to n"
 
-![image](https://user-images.githubusercontent.com/19508013/221006329-679a6cab-c1bd-44ce-87e0-dd3eb4c8b23e.png)
+![image](https://user-images.githubusercontent.com/19508013/221007478-872a074e-a0bb-4dd8-a3bf-49efb71b7bb7.png)
 
 Subject: Entrepreneurship 
 
