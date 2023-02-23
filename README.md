@@ -32,3 +32,20 @@ Lessons:
 • Get clear about your 'Rich Life'
 • Save and invest money before you ever see it
 • Create an automated money system
+
+![image](https://user-images.githubusercontent.com/19508013/221012096-91802b63-0e53-4247-bc82-829077732b87.png)
+
+Subject: Marketing
+
+Lessons:
+• Perception is reality
+• Own a word/category to boost brand
+• Follow the 22 law checklist
+
+![image](https://user-images.githubusercontent.com/19508013/221012328-172d7bb4-8609-4a98-85da-0cd8b3530d35.png)
+
+Subject: Operations
+
+Lessons:
+• Identify and exploit bottlenecks
+• Increase net profit + increase ROI + increase cash flow
