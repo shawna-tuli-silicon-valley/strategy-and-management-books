@@ -21,3 +21,14 @@ Lessons:
 Subject: Accounting/Finance
 
 Lessons:
+• Learn to read financial statements (Income, Balance Sheet, Cash Flow)
+• Fund projects based on expected ROI
+
+![image](https://user-images.githubusercontent.com/19508013/221010952-e4704836-09ee-4ca5-a865-1fc6c4ba1062.png)
+
+Subject: Personal Finance
+
+Lessons:
+• Get clear about your 'Rich Life'
+• Save and invest money before you ever see it
+• Create an automated money system
