@@ -1,6 +1,6 @@
 # Management Books
 
-![image](https://user-images.githubusercontent.com/19508013/220931697-c3ce2e4c-7de0-4bbe-ac3a-ffa5c7f505f2.png)
+![image](https://user-images.githubusercontent.com/19508013/221007658-7857dfca-afd5-43f0-a342-00d25cac7135.png)
 
 Subject: Strategy
 
