@@ -86,3 +86,21 @@ Lessons:
 • Choose your environment wisely (find power centers)
 • Follow the 5+50+1000 Rule
 
+![image](https://user-images.githubusercontent.com/19508013/221018988-0c36dfb7-845b-4f52-9015-05d680307e68.png)
+
+Subject: Leadership
+
+Lessons:
+• The world is complex and chaotic
+• Resiliency and adaptability are crucial to success
+• Leaders create more leaders, not followers 
+
+![image](https://user-images.githubusercontent.com/19508013/221019080-a68e0ba8-3ed3-41dc-acc7-f9b9d8389b5c.png)
+
+Subject: Productivitey and Effectiveness
+
+Lessons:
+• Money and happiness are skills
+• Productize yourself
+• A good reputation is invaluable
+• Play long-term iterated games, compound your growth
